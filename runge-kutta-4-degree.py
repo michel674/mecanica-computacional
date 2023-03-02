@@ -1,3 +1,6 @@
+# A ideia desse código é apresentar uma aplicação simples do método de Runge-Kutta
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 
